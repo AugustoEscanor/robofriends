@@ -5,7 +5,7 @@ const RenderList = (list) => {
     return list.map((robot) => <Card key={robot.id}  details={robot} />)
 };
 const CardList = ({ robo_list }) => {
-    throw new Error('Something goes wrong');
+    
     return (
         RenderList(robo_list)
     )
