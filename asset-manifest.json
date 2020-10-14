@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AugustoEscanor/robofriends/static/css/main.ac3e64a6.chunk.css",
+    "main.js": "/AugustoEscanor/robofriends/static/js/main.e67eb88b.chunk.js",
+    "main.js.map": "/AugustoEscanor/robofriends/static/js/main.e67eb88b.chunk.js.map",
+    "runtime-main.js": "/AugustoEscanor/robofriends/static/js/runtime-main.a45c7e29.js",
+    "runtime-main.js.map": "/AugustoEscanor/robofriends/static/js/runtime-main.a45c7e29.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/AugustoEscanor/robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/AugustoEscanor/robofriends/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/AugustoEscanor/robofriends/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/AugustoEscanor/robofriends/index.html",
+    "precache-manifest.8f90c45beb8c7bf54170dfd9cfa6a048.js": "/AugustoEscanor/robofriends/precache-manifest.8f90c45beb8c7bf54170dfd9cfa6a048.js",
+    "service-worker.js": "/AugustoEscanor/robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/AugustoEscanor/robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.ac3e64a6.chunk.css.map": "/AugustoEscanor/robofriends/static/css/main.ac3e64a6.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/AugustoEscanor/robofriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/AugustoEscanor/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a45c7e29.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.ac3e64a6.chunk.css",
+    "static/js/main.e67eb88b.chunk.js"
+  ]
+}
